@@ -35,7 +35,7 @@ pip install psutil pystray matplotlib pillow
 3. Run the program:
 
 ```
-python ramclean.py
+python cleanram.py
 ```
 
 4. The app will appear in the system tray when minimized or closed. Use the tray icon for quick actions.
