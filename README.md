@@ -1,6 +1,6 @@
 # Advanced RAM Cleaner
 
-A professional, production-ready RAM cleaner for Windows with a modern GUI and system tray integration.
+A Basic, production-ready RAM cleaner for Windows with a modern GUI and system tray integration.
 
 ## Features
 
@@ -50,15 +50,4 @@ python advanced_ram_cleaner.py
 - All cleaning actions are safe and reversible.
 - For best results, run as administrator.
 
-## Screenshots
-
-![Main Window](screenshots/main_window.png)
-![System Tray](screenshots/tray_menu.png)
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
 ---
-
-**Advanced RAM Cleaner** — Professional, safe, and modern memory optimization for Windows.
